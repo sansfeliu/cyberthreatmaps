@@ -8,7 +8,7 @@
 - Threat Metrics Web fraud Map - http://www.threatmetrix.com/threatmetrix-labs/web-fraud-map/
 - Akamai Real time web attack Map - http://www.akamai.com/html/technology/dataviz1.html
 - Deutschen Telekom AG - Sicherheit Stacho - http://www.sicherheitstacho.eu
-- Arbor Atlas - https://atlas.arbor.net/
+- Netscout (DDoS) - https://www.digitalattackmap.com/
 - CheckPoint - https://threatmap.checkpoint.com/ThreatPortal/livemap.html
 - Fortinet - https://threatmap.fortiguard.com/
 - Bitdefender - https://threatmap.bitdefender.com/
