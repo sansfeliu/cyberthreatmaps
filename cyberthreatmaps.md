@@ -1,15 +1,15 @@
-Norse IP Viking Map - http://www.norse-corp.com/map/
-FireEye Cyber Threat Map - https://www.fireeye.com/cyber-map/threat-map.html   
-Arbor Network's Digital Attack Map - http://www.digitalattackmap.com/
-Kaspersky CyberWar Map - http://cybermap.kaspersky.com/
-AlienVault Live threat feed - https://www.alienvault.com/open-threat-exchange/dashboard#/threats/top
-Trend Micro Global Botnet threat Map - https://www.trendmicro.com/us/security-intelligence/current-threat-activity/global-botnet-map/
-F-secure Virus Map - http://worldmap3.f-secure.com/       
-Threat Metrics Web fraud Map - http://www.threatmetrix.com/threatmetrix-labs/web-fraud-map/
-Akamai Real time web attack Map - http://www.akamai.com/html/technology/dataviz1.html
-Deutschen Telekom AG - Sicherheit Stacho - http://www.sicherheitstacho.eu
-Arbor Atlas - https://atlas.arbor.net/
-CheckPoint - https://threatmap.checkpoint.com/ThreatPortal/livemap.html
-Fortinet - https://threatmap.fortiguard.com/
-Bitdefender - https://threatmap.bitdefender.com/
-Threatbutt - https://threatbutt.com/map/
+- Norse IP Viking Map - http://www.norse-corp.com/map/
+- FireEye Cyber Threat Map - https://www.fireeye.com/cyber-map/threat-map.html   
+- Arbor Network's Digital Attack Map - http://www.digitalattackmap.com/
+- Kaspersky CyberWar Map - http://cybermap.kaspersky.com/
+- AlienVault Live threat feed - https://www.alienvault.com/open-threat-exchange/dashboard#/threats/top
+- Trend Micro Global Botnet threat Map - https://www.trendmicro.com/us/security-intelligence/current-threat-activity/global-botnet-map/
+- F-secure Virus Map - http://worldmap3.f-secure.com/       
+- Threat Metrics Web fraud Map - http://www.threatmetrix.com/threatmetrix-labs/web-fraud-map/
+- Akamai Real time web attack Map - http://www.akamai.com/html/technology/dataviz1.html
+- Deutschen Telekom AG - Sicherheit Stacho - http://www.sicherheitstacho.eu
+- Arbor Atlas - https://atlas.arbor.net/
+- CheckPoint - https://threatmap.checkpoint.com/ThreatPortal/livemap.html
+- Fortinet - https://threatmap.fortiguard.com/
+- Bitdefender - https://threatmap.bitdefender.com/
+- Threatbutt - https://threatbutt.com/map/
