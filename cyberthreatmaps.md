@@ -1,12 +1,11 @@
 - Norse IP Viking Map - http://www.norse-corp.com/map/
 - FireEye Cyber Threat Map - https://www.fireeye.com/cyber-map/threat-map.html   
-- Arbor Network's Digital Attack Map - http://www.digitalattackmap.com/
 - Kaspersky CyberWar Map - http://cybermap.kaspersky.com/
 - AlienVault Live threat feed - https://www.alienvault.com/open-threat-exchange/dashboard#/threats/top
 - Trend Micro Global Botnet threat Map - https://www.trendmicro.com/us/security-intelligence/current-threat-activity/global-botnet-map/
 - F-secure Virus Map - http://worldmap3.f-secure.com/       
-- Threat Metrics Web fraud Map - http://www.threatmetrix.com/threatmetrix-labs/web-fraud-map/
-- Akamai Real time web attack Map - http://www.akamai.com/html/technology/dataviz1.html
+- ThreatMetrix Cybercrime Threat Map (Fraud) - https://www.threatmetrix.com/web-fraud-map/
+- Akamai Real time web attack Map - https://www.akamai.com/uk/en/resources/visualizing-akamai/real-time-web-monitor.jsp
 - Deutschen Telekom AG - Sicherheit Stacho - http://www.sicherheitstacho.eu
 - Netscout (DDoS) - https://www.digitalattackmap.com/
 - CheckPoint - https://threatmap.checkpoint.com/ThreatPortal/livemap.html
@@ -14,3 +13,5 @@
 - Bitdefender - https://threatmap.bitdefender.com/
 - Threatbutt - https://threatbutt.com/map/
 - Blueliv - https://community.blueliv.com/map/
+- Netlify (threat actors) - https://aptmap.netlify.com
+
